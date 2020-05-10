@@ -1,0 +1,23 @@
+---
+layout: single
+title: Micro Code Editor
+header: no
+categories:
+  - tools
+tags:
+  - code editor
+  - text highlight
+---
+
+Διαδραστικό παράδειγμα ενός εικονικού επεξεργαστή κώδικα με δυνατότητα χρωματικού τονισμού σύνταξης ορισμένων γλωσσών προγραμματισμού.
+
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="kazzkiq" data-slug-hash="xGXaKR" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Micro Code Editor in the Browser!">
+  <span>See the Pen <a href="https://codepen.io/kazzkiq/pen/xGXaKR">
+  Micro Code Editor in the Browser!</a> by Claudio Holanda (<a href="https://codepen.io/kazzkiq">@kazzkiq</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση 1: Ανακαλύψτε όλες τις διαθέσιμες γλώσσες προγραμματισμού για τις οποίες αναγνωρίζεται και χρωματίζεται η σύνταξη τους.
+
+Άσκηση 2: Αλλάξτε το χρώμα των συναρτήσεων, των τιμών boolean, των σχολίων και των συμβολοσειρών.
